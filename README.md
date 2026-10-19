@@ -64,8 +64,6 @@ Los README individuales explican el alcance real, la instalación y las limitaci
 - **Docencia en robótica:** programación, electrónica básica y proyectos prácticos desde agosto de 2023.
 - **Freelance:** requerimientos, estimaciones, desarrollo, pruebas, documentación y soporte entre noviembre de 2021 y agosto de 2024.
 
-El código propietario de **Genesis Systems** y los proyectos confidenciales se mantienen privados.
-
 ---
 
 <p align="center">
