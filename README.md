@@ -2,8 +2,7 @@
 
 <p align="center">
   React · TypeScript · Node.js<br/>
-  <a href="#proyectos-seleccionados">Proyectos</a> &nbsp; · &nbsp;
-  <a href="mailto:kelvim19.gutierrez@gmail.com">Contacto</a>
+  <a href="#proyectos-seleccionados">Proyectos</a>
 </p>
 
 ### Desarrollo de principio a fin
@@ -72,5 +71,5 @@ El código propietario de **Genesis Systems** y los proyectos confidenciales se 
 <p align="center">
   <strong>Hablemos de tu próximo proyecto o equipo.</strong><br/>
   Interesado en oportunidades como Software Engineer / Full Stack Developer.<br/><br/>
-  <a href="mailto:kelvim19.gutierrez@gmail.com">kelvim19.gutierrez@gmail.com</a> · <a href="https://github.com/KelGut13">@KelGut13</a>
+  <a href="https://github.com/KelGut13">@KelGut13</a>
 </p>
