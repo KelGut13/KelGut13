@@ -16,6 +16,19 @@ Desarrollo y mantengo el sitio institucional y el CMS de **FENINE**. También so
 
 ### Proyectos seleccionados
 
+<a href="https://fenineoficial.com/"><img src="assets/fenine.svg" width="100%" alt="FENINE — proyecto profesional Full Stack: sitio institucional bilingüe, CMS y API." /></a>
+
+#### FENINE · Sitio institucional y CMS
+
+Desarrollo y mantenimiento para la **Federación Nacional e Internacional de Nayaritas en Estados Unidos**, desde abril de 2024.
+
+- **Sitio público:** navegación en español e inglés, directorio, blog, eventos, convocatorias y formulario de contacto.
+- **Gestor de contenido:** administración de publicaciones, eventos, convocatorias, banners y usuarios.
+- **Arquitectura:** sitio React, interfaz del CMS y API Node.js/Express con MySQL. React Router e i18next para navegación e idiomas.
+- **Mi participación:** desarrollo del sitio y del CMS, mantenimiento y evolución de funcionalidades.
+
+**[Visitar sitio institucional ↗](https://fenineoficial.com/)** · Código privado; se presenta como caso profesional sin exponer su implementación interna.
+
 <table>
   <tr>
     <td width="50%" valign="top">
