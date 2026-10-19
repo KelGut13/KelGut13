@@ -1,4 +1,4 @@
-<img src="assets/header.gif" width="100%" alt="Kelvim Gutiérrez — Software Engineer · Full Stack Developer. De la interfaz a la infraestructura." />
+<img src="assets/header.gif" width="100%" alt="Kelvim Gutiérrez — Ingeniero en Software · Desarrollador Full Stack. Convierto desafíos complejos en software que hace avanzar proyectos." />
 
 <p align="center">
   React · TypeScript · Node.js<br/>
