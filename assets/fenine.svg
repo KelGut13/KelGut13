@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="270" viewBox="0 0 1200 270" role="img" aria-label="FENINE. Proyecto profesional: sitio institucional bilingüe, CMS y API.">
+<rect x="1" y="1" width="1198" height="268" rx="12" fill="#F7FAFF" stroke="#DCE7FA"/>
+<rect x="30" y="30" width="4" height="18" rx="2" fill="#2463EB"/>
+<g font-family="Arial,Helvetica,sans-serif">
+<text x="48" y="43" font-size="11" letter-spacing="2" fill="#2463EB">PROYECTO PROFESIONAL / FULL STACK</text>
+<text x="30" y="108" font-size="48" font-weight="700" letter-spacing="-1.5" fill="#173252">FENINE</text>
+<text x="32" y="151" font-size="19" fill="#61728A">Sitio institucional bilingüe y gestor de contenido.</text>
+<text x="32" y="182" font-size="17" fill="#61728A">Desarrollo, administración y mantenimiento.</text>
+<text x="32" y="236" font-size="13" fill="#2463EB">React · Express · MySQL · i18next</text>
+<line x1="791" y1="35" x2="791" y2="235" stroke="#DFE8F5"/>
+<g font-size="15" fill="#173252"><text x="859" y="86">Sitio público</text><text x="859" y="141">Panel de administración</text><text x="859" y="196">API y base de datos</text></g>
+<g fill="#E8F0FE"><rect x="821" y="66" width="25" height="25" rx="6"/><rect x="821" y="121" width="25" height="25" rx="6"/><rect x="821" y="176" width="25" height="25" rx="6"/></g>
+<g fill="#2463EB" font-size="11"><text x="827" y="83">01</text><text x="827" y="138">02</text><text x="827" y="193">03</text></g>
+<text x="1147" y="48" font-size="24" fill="#2463EB">↗</text></g></svg>
